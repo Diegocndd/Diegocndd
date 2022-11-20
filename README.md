@@ -10,14 +10,15 @@
 As a computer science student, I am passionate about algorithms and technology. I'm a front-end developer with extensive knowledge in creating web and mobile interfaces.
 
 - Solid knowledge of JavaScript and Python. 🐍
-- Studying user experience and web accessibility in my spare time. 🤔
+- Studying user experience, web accessibility and data science in my spare time. 🤔
 - Low level programming enthusiast (Assembly and C language). ⬇️
-
+- Web Scraping lover
+ 
 ## Tech Skills
 
 - JavaScript (React, React Native, NodeJS and Photoshop automation).
 - Git and Github
-- Python (solid knowledge in web crawling).
+- Python (solid knowledge in web scraping).
 
 ## Discover a little of what I'm doing
 
