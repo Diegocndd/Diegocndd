@@ -24,6 +24,8 @@ As a computer science student, I am passionate about algorithms and technology. 
 
 [Voter (a simple and anonymous voting system)](https://github.com/Diegocndd/voter-front)
 
+[PostNote (a secure and serverless note manager)](https://post-notes.herokuapp.com/)
+
 [Some code for bootable Assembly x86](https://github.com/Diegocndd/Assemblyx86-Bootable)
 
 [A parser built with Haskell](https://github.com/Diegocndd/Parser-CTMCP-Haskell)
